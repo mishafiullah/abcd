@@ -208,7 +208,7 @@ main {
   justify-content: space-between;
 }
 .match p {
-  font-size: 15px;
+  font-size: 16px;
   text-align: justify;
   color: rgb(44, 39, 39);
 
@@ -264,7 +264,7 @@ footer h1 {
   }
 
   .right_header img {
-    width: 70%;
+    width: 71%;
   }
   .right_header {
     width: 100%;
